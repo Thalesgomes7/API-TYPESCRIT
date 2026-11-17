@@ -1,0 +1,1 @@
+Para rodar um script criado no package
